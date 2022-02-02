@@ -19,8 +19,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://kevin-qr-code.netlify.app/)
 
 ## My process
 
@@ -35,5 +34,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Kevin Rojas](https://www.your-site.com)
+- Website - [Kevin Rojas](https://kevin-qr-code.netlify.app/)
 - Frontend Mentor - [@Kevin2259](https://www.frontendmentor.io/profile/Kevin2259)
